@@ -20,6 +20,7 @@
                     <img src="img/team/2.jpg" class="img-responsive img-circle" alt="">
                     <h4>危锦辉</h4>
                     <p class="text-muted">技术主管</p>
+                    <small>3年软件开发及项目管理经验</small>
                     <ul class="list-inline social-buttons">
                         <li class="text-muted">
                             <i class="fa fa-phone"></i>&nbsp;18279700225
@@ -38,6 +39,7 @@
                     <img src="img/team/1.jpg" class="img-responsive img-circle" alt="">
                     <h4>王振宇</h4>
                     <p class="text-muted">负责人兼技术总监</p>
+                    <small>7年软件开发及项目管理经验，3年IT教育培训经验</small>
                     <ul class="list-inline social-buttons">
                         <li class="text-muted">
                             <i class="fa fa-phone"></i>&nbsp;13672297775
@@ -56,6 +58,7 @@
                     <img src="img/team/5.jpg" class="img-responsive img-circle" alt="">
                     <h4>王彬</h4>
                     <p class="text-muted">市场主管</p>
+                    <small>3年软件开发及客户沟通经验</small>
                     <ul class="list-inline social-buttons">
                         <li class="text-muted">
                             <i class="fa fa-phone"></i>&nbsp;15079762838
@@ -99,7 +102,7 @@
         </div>
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 text-center">
-                <p class="large text-muted">如果您有软件项目需求，您需要软件项目咨询，请联系我们！</p>
+                <p class="large text-muted">如果您有软件项目需求，需要软件项目咨询，请联系我们！</p>
             </div>
         </div>
     </div>
