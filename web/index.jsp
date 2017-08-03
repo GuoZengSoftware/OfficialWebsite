@@ -14,8 +14,9 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="">
-  <meta name="author" content="">
+  <meta name="description" content="振宇网络工作室是赣南地区最权威专业的IT服务商，为客户提供周到的项目顾问，软件开发，手机APP开发，UI设计，IT教育及培训">
+  <meta name="keywords" content="赣州软件开发 赣州振宇网络 赣州网络工作室 赣州软件开发 赣州APP开发 赣州软件培训">
+  <meta name="author" content="振宇网络工作室">
 
   <title>赣州振宇网络工作室</title>
   <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
