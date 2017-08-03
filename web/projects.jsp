@@ -12,7 +12,7 @@
         <div class="row">
             <div class="col-lg-12 text-center">
                 <h2 class="section-heading">项目</h2>
-                <h3 class="section-subheading text-muted">成功项目是专业的证明（查看更多项目请联系我们！）</h3>
+                <h3 class="section-subheading text-muted">成功项目是专业的证明<br />（查看更多项目请联系我们！）</h3>
             </div>
         </div>
         <div class="row">
