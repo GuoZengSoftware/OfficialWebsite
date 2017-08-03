@@ -26,6 +26,8 @@
 
   <link href="css/agency.min.css" rel="stylesheet">
 
+  <link href="css/main.css" rel="stylesheet">
+
   <!--[if lt IE 9]>
   <script src="js/html5shiv.js"></script>
   <script src="js/respond.min.js"></script>
@@ -78,7 +80,7 @@
           <a class="page-scroll" href="#services">服务</a>
         </li>
         <li>
-          <a class="page-scroll" href="#portfolio">案例</a>
+          <a class="page-scroll" href="#portfolio">项目</a>
         </li>
         <li>
           <a class="page-scroll" href="#about">关于</a>
@@ -106,7 +108,7 @@
 
 <%@include file="services.jsp"%>
 
-<%@include file="cases.jsp"%>
+<%@include file="projects.jsp"%>
 
 <%@include file="about.jsp"%>
 
