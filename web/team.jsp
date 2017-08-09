@@ -15,31 +15,14 @@
             </div>
         </div>
         <div class="row">
-            <div class="col-sm-4 wow slideInLeft">
+            <div class="col-sm-4  wow slideInLeft">
                 <div class="team-member">
-                    <img src="img/team/2.jpg" class="img-responsive img-circle" alt="">
-                    <h4>刘军</h4>
-                    <p class="text-muted">JavaEE企业级开发专家</p>
-                    <small>7年中大型软件开发经验</small>
-                    <ul class="list-inline social-buttons">
-                        <li class="text-muted">
-                            <i class="fa fa-phone"></i>&nbsp;18174099373
-                        </li>
-                        <li class="text-muted">
-                            <i class="fa fa-wechat"></i>&nbsp;18174099373
-                        </li>
-                        <li class="text-muted">
-                            <i class="fa fa-qq"></i>&nbsp;907054261
-                        </li>
-                    </ul>
-                </div>
-            </div>
-            <div class="col-sm-4">
-                <div class="team-member">
+                    <!--
                     <img src="img/team/1.jpg" class="img-responsive img-circle" alt="">
+                    -->
                     <h4>王振宇</h4>
                     <p class="text-muted">负责人兼技术总监</p>
-                    <small>7年中大型软件开发及项目管理经验，3年IT教育培训经验</small>
+                    <p>7年中大型软件开发及项目管理经验，3年IT教育培训经验</p>
                     <ul class="list-inline social-buttons">
                         <li class="text-muted">
                             <i class="fa fa-phone"></i>&nbsp;13672297775
@@ -53,48 +36,101 @@
                     </ul>
                 </div>
             </div>
+            <div class="col-sm-4">
+                <div class="team-member">
+                    <!--
+                    <img src="img/team/2.jpg" class="img-responsive img-circle" alt="">
+                    -->
+                    <h4>刘军</h4>
+                    <p class="text-muted">JavaEE企业级开发专家</p>
+                    <p>7年中大型软件开发经验</p>
+                    <ul class="list-inline social-buttons">
+                        <li>&nbsp;</li>
+                    </ul>
+                </div>
+            </div>
+
             <div class="col-sm-4 wow slideInRight">
                 <div class="team-member">
+                    <!--
                     <img src="img/team/5.jpg" class="img-responsive img-circle" alt="">
+                    -->
                     <h4>钟起刚</h4>
                     <p class="text-muted">移动应用开发专家</p>
-                    <small>5年Android及iOS应用开发经验</small>
+                    <p>5年Android及iOS应用开发经验</p>
                     <ul class="list-inline social-buttons">
-                        <li class="text-muted">
-                            <i class="fa fa-phone"></i>&nbsp;15387876464
-                        </li>
-                        <li class="text-muted">
-                            <i class="fa fa-wechat"></i>&nbsp;15387876464
-                        </li>
-                        <li class="text-muted">
-                            <i class="fa fa-qq"></i>&nbsp;20564386
-                        </li>
+                        <li>&nbsp;</li>
                     </ul>
                 </div>
             </div>
             <div class="col-sm-4 wow slideInLeft">
                 <div class="team-member">
+                    <!--
                     <img src="img/team/4.jpg" class="img-responsive img-circle" alt="">
-                    <h4>危锦辉、王彬</h4>
+                    -->
+                    <h4>危锦辉</h4>
                     <p class="text-muted">高级软件开发工程师</p>
+                    <p>3年中大型软件开发经验</p>
                     <ul class="list-inline social-buttons">
                     </ul>
                 </div>
             </div>
             <div class="col-sm-4">
                 <div class="team-member">
-                    <img src="img/team/3.jpg" class="img-responsive img-circle" alt="">
-                    <h4>邱康、张文星</h4>
+                    <!--
+                    <img src="img/team/4.jpg" class="img-responsive img-circle" alt="">
+                    -->
+                    <h4>王彬</h4>
                     <p class="text-muted">高级软件开发工程师</p>
+                    <p>3年中大型软件开发经验</p>
                     <ul class="list-inline social-buttons">
                     </ul>
                 </div>
             </div>
-            <div class="col-sm-4  wow slideInRight">
+            <div class="col-sm-4 wow slideInRight">
                 <div class="team-member">
-                    <img src="img/team/6.jpg" class="img-responsive img-circle" alt="">
+                    <!--
+                    <img src="img/team/4.jpg" class="img-responsive img-circle" alt="">
+                    -->
+                    <h4>张文星</h4>
+                    <p class="text-muted">高级软件开发工程师</p>
+                    <p>3年中大型软件开发经验</p>
+                    <ul class="list-inline social-buttons">
+                    </ul>
+                </div>
+            </div>
+            <div class="col-sm-4 wow slideInLeft">
+                <div class="team-member">
+                    <!--
+                    <img src="img/team/4.jpg" class="img-responsive img-circle" alt="">
+                    -->
+                    <h4>邱康</h4>
+                    <p class="text-muted">高级软件开发工程师</p>
+                    <p>3年中大型软件开发经验</p>
+                    <ul class="list-inline social-buttons">
+                    </ul>
+                </div>
+            </div>
+            <div class="col-sm-4">
+                <div class="team-member">
+                    <!--
+                    <img src="img/team/4.jpg" class="img-responsive img-circle" alt="">
+                    -->
+                    <h4>沙姝含</h4>
+                    <p class="text-muted">美女高级软件开发工程师</p>
+                    <p>3年中大型软件开发经验</p>
+                    <ul class="list-inline social-buttons">
+                    </ul>
+                </div>
+            </div>
+            <div class="col-sm-4 wow slideInRight">
+                <div class="team-member">
+                    <!--
+                    <img src="img/team/4.jpg" class="img-responsive img-circle" alt="">
+                    -->
                     <h4>曾创</h4>
                     <p class="text-muted">软件开发工程师</p>
+                    <p>1年中大型软件开发经验</p>
                     <ul class="list-inline social-buttons">
                     </ul>
                 </div>
