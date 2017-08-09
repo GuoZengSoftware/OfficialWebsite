@@ -15,7 +15,7 @@
             </div>
         </div>
         <div class="row">
-            <div class="col-sm-4  wow slideInLeft">
+            <div class="col-sm-4 wow slideInLeft">
                 <div class="team-member">
                     <!--
                     <img src="img/team/1.jpg" class="img-responsive img-circle" alt="">
@@ -45,7 +45,6 @@
                     <p class="text-muted">JavaEE企业级开发专家</p>
                     <p>7年中大型软件开发经验</p>
                     <ul class="list-inline social-buttons">
-                        <li>&nbsp;</li>
                     </ul>
                 </div>
             </div>
@@ -59,10 +58,11 @@
                     <p class="text-muted">移动应用开发专家</p>
                     <p>5年Android及iOS应用开发经验</p>
                     <ul class="list-inline social-buttons">
-                        <li>&nbsp;</li>
                     </ul>
                 </div>
             </div>
+        </div>
+        <div class="row">
             <div class="col-sm-4 wow slideInLeft">
                 <div class="team-member">
                     <!--
@@ -99,6 +99,8 @@
                     </ul>
                 </div>
             </div>
+        </div>
+        <div class="row">
             <div class="col-sm-4 wow slideInLeft">
                 <div class="team-member">
                     <!--

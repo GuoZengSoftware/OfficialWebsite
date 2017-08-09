@@ -16,7 +16,7 @@
             </div>
         </div>
         <div class="row">
-            <div class="col-md-4 col-sm-6 portfolio-item wow slideInUp">
+            <div class="col-sm-6 portfolio-item wow slideInUp">
                 <a href="#portfolioModal1" class="portfolio-link" data-toggle="modal">
                     <div class="portfolio-hover">
                         <div class="portfolio-hover-content">
@@ -30,7 +30,7 @@
                     <p class="text-muted">JavaEE + SSM框架 + Socket通信</p>
                 </div>
             </div>
-            <div class="col-md-4 col-sm-6 portfolio-item wow slideInUp">
+            <div class="col-sm-6 portfolio-item wow slideInUp">
                 <a href="#portfolioModal2" class="portfolio-link" data-toggle="modal">
                     <div class="portfolio-hover">
                         <div class="portfolio-hover-content">
@@ -44,7 +44,9 @@
                     <p class="text-muted">自适应网页 + SSM框架 + Activity流程控制 + Shiro安全认证 + 微信公众号</p>
                 </div>
             </div>
-            <div class="col-md-4 col-sm-6 portfolio-item wow slideInUp">
+        </div>
+        <div class="row">
+            <div class="col-sm-6 portfolio-item wow slideInUp">
                 <a href="#portfolioModal3" class="portfolio-link" data-toggle="modal">
                     <div class="portfolio-hover">
                         <div class="portfolio-hover-content">
@@ -59,7 +61,7 @@
                     <p class="text-muted">微信公众号 + 微信授权登录 + 微信支付 + JavaEE</p>
                 </div>
             </div>
-            <div class="col-md-4 col-sm-6 portfolio-item wow slideInUp">
+            <div class="col-sm-6 portfolio-item wow slideInUp">
                 <a href="#portfolioModal4" class="portfolio-link" data-toggle="modal">
                     <div class="portfolio-hover">
                         <div class="portfolio-hover-content">
@@ -73,7 +75,9 @@
                     <p class="text-muted">Bootstrap + JavaEE</p>
                 </div>
             </div>
-            <div class="col-md-4 col-sm-6 portfolio-item wow slideInUp">
+        </div>
+        <div class="row">
+            <div class="col-sm-6 portfolio-item wow slideInUp">
                 <a href="#portfolioModal5" class="portfolio-link" data-toggle="modal">
                     <div class="portfolio-hover">
                         <div class="portfolio-hover-content">
@@ -87,7 +91,7 @@
                     <p class="text-muted">自适应网页 + JavaEE + 医院服务接口 + 微信公众号</p>
                 </div>
             </div>
-            <div class="col-md-4 col-sm-6 portfolio-item wow slideInUp">
+            <div class="col-sm-6 portfolio-item wow slideInUp">
                 <a href="#portfolioModal6" class="portfolio-link" data-toggle="modal">
                     <div class="portfolio-hover">
                         <div class="portfolio-hover-content">
