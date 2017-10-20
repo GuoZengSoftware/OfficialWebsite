@@ -21,7 +21,7 @@
                     <img src="img/team/1.jpg" class="img-responsive img-circle" alt="">
                     -->
                     <h4>王振宇</h4>
-                    <p class="text-muted">负责人兼技术总监</p>
+                    <p class="text-muted">创始人及技术总监</p>
                     <p>7年中大型软件开发及项目管理经验，3年IT教育培训经验</p>
                     <ul class="list-inline social-buttons">
                         <li class="text-muted">

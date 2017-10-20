@@ -14,11 +14,11 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="振宇网络工作室是赣南地区最权威专业的IT服务商，为客户提供周到的项目顾问，软件开发，手机APP开发，UI设计，IT教育及培训">
-  <meta name="keywords" content="赣州软件开发 赣州振宇网络 赣州网络工作室 赣州软件开发 赣州APP开发 赣州软件培训">
-  <meta name="author" content="振宇网络工作室">
+  <meta name="description" content="赣州至悦信息技术有限公司是赣南地区最权威专业的IT服务商，为客户提供周到的项目顾问，软件开发，手机APP开发，UI设计，IT教育及培训">
+  <meta name="keywords" content="赣州软件开发 赣州至悦信息 赣州至悦信息技术 赣州软件开发 赣州APP开发 赣州软件培训">
+  <meta name="author" content="赣州至悦信息技术有限公司">
 
-  <title>赣州振宇网络工作室</title>
+  <title>赣州至悦信息技术有限公司</title>
   <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
   <link href="vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" >
@@ -69,7 +69,7 @@
       <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
         <span class="sr-only">Toggle navigation</span> 菜单 <i class="fa fa-bars"></i>
       </button>
-      <a class="navbar-brand page-scroll" href="#page-top">振宇网络工作室</a>
+      <a class="navbar-brand page-scroll" href="#page-top">赣州至悦信息技术有限公司</a>
     </div>
 
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
@@ -100,7 +100,7 @@
 <header>
   <div class="container">
     <div class="intro-text">
-      <div class="intro-lead-in">振宇网络工作室</div>
+      <div class="intro-lead-in">赣州至悦信息技术有限公司</div>
       <div class="intro-heading wow bounceIn">赣南最专业的IT服务商！</div>
       <a href="#services" class="page-scroll btn btn-xl wow pulse">查看服务</a>
     </div>

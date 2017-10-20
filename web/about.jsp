@@ -102,8 +102,25 @@
                     </li>
                     <li class="timeline-inverted wow fadeInRight">
                         <div class="timeline-image">
+                            <img class="img-circle img-responsive" src="img/about/6.jpg" alt="">
+                        </div>
+                        <div class="timeline-panel">
+                            <div class="timeline-heading">
+                                <h4>2017-10月</h4>
+                                <h4 class="subheading">再次启航，赣州至悦信息技术有限公司成立！</h4>
+                            </div>
+                            <div class="timeline-body">
+                                <p class="text-muted">
+									正在开发基于云平台的青岛**酒店管理平台……我们将一如既往，继续为客户提供专业的IT服务，并创造属于我们自己的成功平台！
+                                </p>
+                            </div>
+                        </div>
+                    </li>
+					<li class="wow fadeInLeft">
+						<div class="timeline-image">
                             <h4>还将<br />继<br />续<br />！</h4>
                         </div>
+                        
                     </li>
                 </ul>
             </div>

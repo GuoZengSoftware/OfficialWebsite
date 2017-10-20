@@ -10,8 +10,9 @@
     <div class="container">
         <div class="row">
             <div class="col-md-4">
-                <span class="copyright">Copyright&nbsp;&copy;&nbsp;振宇网络工作室&nbsp;2014-2017</span>
+                <span class="copyright">Copyright&nbsp;&copy;&nbsp;赣州至悦信息技术有限公司&nbsp;2014-2017</span>
                 <p>地址：赣州国际企业中心</p>
+                <p>电话：13672297775</p>
             </div>
             <div class="col-md-4">
                 <ul class="list-inline quicklinks">
